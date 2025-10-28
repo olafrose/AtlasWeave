@@ -6,7 +6,7 @@ It features a modular structure with an **ECS-based architecture** and optional 
  
 The goal of this project is to **learn and experiment** with modern rendering techniques, multi-threaded engine design, and scalable game logic — rather than building a production-ready engine.
  
-## Features
+## Features (planned)
 - Vulkan-based 3D renderer for learning graphics programming
 - Modular **Entity Component System (ECS)**
 - Multi-threaded architecture for CPU performance exploration
